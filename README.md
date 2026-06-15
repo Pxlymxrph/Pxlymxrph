@@ -1,16 +1,31 @@
-## Hi there 👋
+# Sebastian Rivera
 
-<!--
-**Pxlymxrph/Pxlymxrph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista Junior de Ciberseguridad enfocado en:
 
-Here are some ideas to get you started:
+- OSINT
+- Investigación Digital
+- Threat Intelligence
+- DFIR
+- Python
+- Pentesting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos Destacados
+
+### Investigaciones Digitales
+Casos documentados de investigación digital y análisis forense.
+
+### Writeups
+Resolución y documentación de laboratorios CTF.
+
+### Automatización
+Scripts en Python orientados a reconocimiento, análisis y automatización.
+
+## Tecnologías
+
+Python • Linux • Nmap • Wireshark • Burp Suite • Ghidra • Bash
+
+## Actualmente
+
+- Preparando eJPT
+- Preparando Security+
+- Ingeniería en Telemática
